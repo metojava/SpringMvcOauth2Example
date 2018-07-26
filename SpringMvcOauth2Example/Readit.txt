@@ -1,0 +1,14 @@
+create database test , then
+from sql folder run sql files : schema.sql , data.sql , schema&data
+
+http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/
+https://www.devglan.com/spring-security/spring-boot-security-oauth2-example
+http://www.baeldung.com/rest-api-spring-oauth2-angularjs
+http://www.baeldung.com/get-user-in-spring-security
+
+https://www.javacodegeeks.com/2013/11/spring-security-behind-the-scenes.html
+http://blabadi.blogspot.com/2014/08/creating-your-own-oauth2-server-and.html
+http://blabadi.blogspot.com/2014/08/creating-your-own-oauth2-server-and_31.html
+
+to generate keystore:
+https://www.codeproject.com/Articles/867391/JAX-WS-Using-Apache-CXF-to-Create-a-Bottom-Up-Web
